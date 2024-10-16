@@ -173,3 +173,4 @@ usually called `main.py` which defines a `run()` function.
 
 The API is loosely documented in the
 [developer guide](https://github.com/calamares/calamares/wiki/Develop-Guide).
+
